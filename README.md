@@ -1,3 +1,2 @@
 # Service-Photograph
-[Site] (https://taronmin.github.io/Service-Photograph/)
-Service
+Site here  https://taronmin.github.io/Service-Photograph/
